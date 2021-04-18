@@ -25,7 +25,6 @@
       window.__LOCALE__ = '${locale}';
     </script>
     <script src="${clientTopology.staticsBaseUrl}app.bundle#if(!${debug}).min#{end}.js"></script>
-    <!-- Please remove this template intro script tag -->
-    <script src="https://${clientTopology.staticsDomain}/unpkg-semver/yoshi-template-intro/yoshi-template-intro.umd.js"></script>
+
   </body>
 </html>
