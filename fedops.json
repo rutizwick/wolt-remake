@@ -1,0 +1,11 @@
+{
+    "appName": "wolt-remake",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "wolt-remake"
+    ]
+  }
